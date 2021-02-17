@@ -1,0 +1,120 @@
+* [33m2fe83fa[m[33m ([m[1;36mHEAD -> [m[1;32msteve_dev[m[33m, [m[1;31morigin/steve_dev[m[33m)[m complete charter
+* [33m260d53b[m fixing kanban board, building charter page and Adding charter list
+* [33mff992dc[m filtering and updating status
+* [33me75ef08[m KANBAN
+* [33m66c60d2[m KANBAN
+* [33mab084d0[m initial project
+* [33m2880a59[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m added entriesDrill and merged steve branch
+* [33m364d877[m added the entries drill and fixed the filter conditions
+* [33m9a5d67f[m added react-to-pdf
+* [33m4b7fd67[m added the exporting of pdf
+* [33m72f1461[m added entries vessel and fixed the calendar
+* [33m53b2354[m updated the kanbanboard
+* [33mbc5a2d1[m add the entries related to crew
+* [33m9aad80c[m added the inspection task on schedule maintenace
+* [33m4360263[m fixed the calender end time
+* [33m8030c99[m updated the workorder and added kanban view
+* [33m04b2b4a[m added the filter on workorder
+* [33m11de2f8[m updated the workorderstatus filter on calendar
+* [33m3100138[m updated the route
+* [33m5e494c2[m added the filter on calendar
+* [33m8975854[m updated the calender with dragging
+* [33mad0808d[m updated the worke order general
+* [33mc8e47f2[m updated the workorder/general
+* [33mc6aad23[m  updated config file
+* [33mf207146[m fixed the worked order
+* [33m89c65e5[m updated the calendar and workorder
+* [33m2169974[m update workorder
+* [33m5d592ba[m fix calendar
+* [33m90d5838[m fix workorder edit error
+* [33m15f3543[m fix workorder
+* [33m558cefd[m fix calendar and workorder
+* [33mbc03713[m update scheduledmaintenance
+* [33m81d2d6f[m fix calendar and maintenancetype error
+* [33m1a18e0d[m calendar merge and fix
+* [33mf7ea209[m bug fix workorder
+* [33m9c1716c[m create scheduledaudit and scheduleddrill
+* [33m672e828[m update audit
+* [33m4b219a1[m update audit
+* [33m7f64e2d[m update audit,workorder
+* [33mb07e95c[m update audit
+* [33md9ba872[m update audit and drill
+* [33m2720d2a[m update audit
+* [33m7357242[m updated to audit
+* [33m58100cf[m  added to add the audit
+* [33m3cf25d6[m added the ux for audit
+* [33meba7eb4[m updated the ux of the drill and scheduled drill
+* [33m5aacb0e[m create a detail modal of the scheduled maintenance upcoming.
+* [33m4aba936[m added the drill and scheduled drill
+* [33m82efed8[m added the some ux of drill and audit
+* [33mab316e3[m updated scheduling.js
+* [33m603494c[m added the cron task
+* [33m5eceefd[m added the filter functionality on asset list
+* [33mbd4ebdd[m updated the scheduledmaintenance
+* [33mdd6b189[m added the search function on Asset Modal
+* [33m07eb1f2[m added the inspection type on workorder task
+* [33m215692b[m fixed overflow of asset in list
+* [33m6750316[m added labor task on schedulemaintenance
+* [33mb8ec0b9[m added the multiple assets:
+* [33m7466fdf[m updated the multiple asets on workorder
+* [33ma5933c0[m added the draggable start and end time on calendar
+* [33mc1a6241[m fixed tree issue
+* [33m6622a8a[m fixed some issue on Asset
+* [33m73e01fc[m updated workordertaskmodal
+* [33m5192495[m added the labor task on work order
+* [33m0dea296[m added the sort view of asset /workorder
+* [33m07513fd[m updated the edit workorder page
+* [33m697b07f[m updated the saga of calendar view of wo
+* [33m67474ef[m updated calendar view
+* [33mddf473e[m  added the canlendar view on workorder
+* [33ma2d7f45[m updated ux list
+* [33mf40ae3b[m added the sheduled trigger
+* [33m853a397[m added the scheduling tab in ScheduledMaintenace
+* [33m5f86d88[m added the work order filter and updated the sheduled maintenace
+* [33me43cad9[m added the scheduel maintence
+* [33m3a083a9[m updated usermodal
+* [33m3306023[m added business
+* [33m61f8cc9[m added the metering and asset event tabs of all asset
+* [33m8668a29[m updated the user group and so on
+* [33m29b51e8[m added the assigned user and group, pesonal tab of all assets
+* [33m32e8fe2[m fixed the workorder issue
+* [33m0ae254e[m updated
+* [33m23a2ebe[m  user and user group
+* [33m406dd21[m original
+* [33m7082aa3[m updaed the something
+* [33m6b16c03[m fixed ..
+* [33m84bc737[m fixed the not selected
+* [33mdb17d6e[m updated and added the add/edit of facilitty
+* [33m9b17d57[m updated the project and metering
+* [33m7775008[m updated the workorder ux
+* [33mddd7986[m updated the edit page with general tabs of tools and equipment asset
+* [33mba401e0[m updated the asset list
+* [33m1d75d48[m updated the edit assets
+* [33m7ee1168[m updated the edit pages
+* [33md47f7cf[m tree filed in asset list
+* [33m84987d5[m added and updated the eventtype and assortedworkorder modal ,etc
+* [33m6229be6[m added facility asset and account modal. chargedepartment modal
+* [33ma459622[m parent-child relation tree ux
+* [33m0b22439[m workorders
+* [33m72c231d[m work order and project, user modal
+* [33mfb975dc[m UX of some of asset/project/workorder
+* [33m4d82f13[m  category
+* [33m23a0b37[m user group and user setting
+* [33ma2d9def[m some ux of facility and equipment
+* [33me1eb7b8[m ux of the asset
+* [33m7071b30[m added the tabs of equipment and facility, tools
+[32m|[m * [33mc47f2e2[m[33m ([m[1;31morigin/aniket-dev[m[33m)[m calendar changes
+[32m|[m[32m/[m  
+* [33md632304[m ux of asset
+* [33mc0eb838[m added the work-order module
+* [33m9fad229[m updated effect
+* [33m4836b8f[m delete effect
+* [33m7987a31[m fixed some
+* [33m1dbde38[m fixed the delete change
+* [33m44decf3[m chaged the config
+* [33ma3e1200[m added the asset module
+* [33mc9d4091[m updated the redux and sage
+* [33mb738b84[m updated the header
+* [33me2f57f9[m updated the textarea
+* [33m3e304d0[m The react-redux admin dashboard for Apiof user/asset
+* [33m64fd1a2[m Initial commit
